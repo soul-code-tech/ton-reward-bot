@@ -8,10 +8,10 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 logging.basicConfig(level=logging.INFO)
 
 # Токен бота (вставь свой!)
-BOT_TOKEN = "СЮДА_ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER"
+BOT_TOKEN = "7619623685:AAGvQJSzN9gIGJflsqNyV2CDijdYczhxh14"
 
 # Адрес твоего TON-кошелька (казначейский)
-WALLET_ADDRESS = "СЮДА_ВСТАВЬ_АДРЕС_ОТ_@WALLET"
+WALLET_ADDRESS = "UQAtOwZBJX-V_0tJHXwOXrOI-7I7T6EJ21UOk4TShQenh1os"
 
 # ID канала, на который нужно подписаться (например, @viktor_news)
 REQUIRED_CHANNEL = "@viktor_news"
